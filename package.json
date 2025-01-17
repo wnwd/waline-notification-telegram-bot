@@ -1,0 +1,23 @@
+{
+  "name": "waline-notification-telegram-bot",
+  "version": "1.0.0",
+  "description": "Notification for telegram bot",
+  "keywords": [
+    "waline",
+    "plugin",
+    "notification",
+    "blog",
+    "telegram"
+  ],
+  "homepage": "https://github.com/wnwd/waline-notification-telegram-bot#readme",
+  "bugs": {
+    "url": "https://github.com/wnwd/waline-notification-telegram-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnwd/waline-notification-telegram-bot.git"
+  },
+  "license": "MIT",
+  "author": "mapxn",
+  "main": "index.js"
+}
