@@ -1,13 +1,14 @@
 {
   "name": "waline-notification-telegram-bot",
-  "version": "1.0.0",
-  "description": "Notification for telegram bot",
+  "version": "1.0.1",
+  "description": "A Waline notification plugin that sends alerts via telegram bot",
   "keywords": [
     "waline",
     "plugin",
     "notification",
     "blog",
-    "telegram"
+    "telegram",
+    "bot"
   ],
   "homepage": "https://github.com/wnwd/waline-notification-telegram-bot#readme",
   "bugs": {
